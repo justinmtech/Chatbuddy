@@ -1,0 +1,4 @@
+session_token: ""
+discord_bot:
+  enabled: true
+  bot_token: ""

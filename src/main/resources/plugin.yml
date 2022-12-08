@@ -1,0 +1,15 @@
+name: Chatbuddy
+version: '${project.version}'
+main: com.justinmtech.chatbuddy.Chatbuddy
+api-version: 1.13
+prefix: Chatbuddy
+authors: [ justinmtech ]
+description: A Minecraft plugin that interfaces with ChatGPT.
+website: https://justinmtech.com
+commands:
+  chatbuddy:
+    usage: /chatbuddy <question>
+    aliases:
+      - chatgpt
+      - gpt
+      - askgpt
